@@ -14,17 +14,24 @@
 -->
 <resources>
     <!-- Title for the application. [CHAR LIMIT=12] -->
-    <string name="app_name">Miwok</string>
+    <string name="app_name">Lundy Island</string>
 
     <!-- Category name for phrases [CHAR LIMIT=20] -->
-    <string name="category_phrases">Phrases</string>
+    <string name="category_location">Location</string>
 
     <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
-    <string name="category_colors">Colors</string>
+    <string name="category_sights">Sights</string>
 
     <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
-    <string name="category_numbers">Numbers</string>
+    <string name="category_activities">Activities</string>
 
     <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
-    <string name="category_family">Family Members</string>
+    <string name="category_slideshow">Slideshow</string>
+
+    <string name="locationLundyIsland">Location of Lundy Island</string>
+
+    <string name="locText1">Lundy Island is located 12 miles off the coast of Devon, England.</string>
+    <string name="locText2">The Island can be traveled to by helicopter in the Fall/Winter months and by boat in the Spring/Summer months.</string>
+    <string name="locText3">There are several places to stay if you wish to spend and extended period of time on the island, ranging from camping facilities to rooms in a castle.</string>
+
 </resources>
